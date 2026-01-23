@@ -128,4 +128,12 @@ urls:
 - http://defaultgen.com:8880/get.php?username=total&password=aNXa8Vn7XL&type=m3u_plus&output=mpegts
 - http://defaultgen.com:8880/get.php?username=total&password=aNXa8Vn7XL&type=m3u&output=hls
 - http://server.iptvxxx.net:80/get.php?username=images&password=11bd8781b41b507901fa1570dabbd
+- http://hdhd.tk:80/get.php?username=281123&password=281123&type=m3u
+- http://nocable.cc:8080/get.php?username=fNeb6z&password=084603&type=m3u_plus
+- http://nocable.cc:8080/get.php?username=ez4evr@icloud.com&password=7Qw7aHb4x3&type=m3u_plus
+- http://nocable.cc:8080/get.php?username=sFFAV3&password=440174&type=m3u_plus
+- http://hardcoremedia.xyz:80/get.php?username=ymgiaxkw&password=5Hr5ZQuVfU&type=m3u&output=ts
+- http://skytv4k.org:8080/get.php?username=GcC1PrdAuK&password=tmFvgI3Gax&type=m3u_plus
+- http://skytv4k.org:8080/get.php?username=AlexSlavic294&password=w1aSnNsGvE&type=m3u_plus
+- http://skytv4k.org:8080/get.php?username=PajazitGreku&password=iqJy9Wtzb4&type=m3u_plus
   # Add more URLs here (up to 100)
