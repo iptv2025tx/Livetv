@@ -263,10 +263,11 @@ def main():
         "http://directo.ddns.me:33200/get.php?username=stkjamna&password=7833&type=m3u", 
         "http://imaxplay.net:2082/get.php?username=GerardoRamirez22&password=VMZRD&type=m3u", 
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
-        "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/moj.m3u8", 
-        "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8",
-        "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "http://185.134.22.150:8080/get.php?username=sw-apuniversaliptv-6741&password=poland&type=m3u&output=ts", 
+        "http://websafety101.net:5050/get.php?username=total&password=Wk9hXW9b57&type=m3u&output=ts",
+        "http://magmas5.com:8000/get.php?username=XXXR3str3amLine&password=200conxxxxQ41&type=m3u&output=ts",
         "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "http://localiptv.site:85/get.php?username=xchangetomastree2020&password=ZeuYTgaB5NnzqE79&type=m3u&output=ts", 
     ]
 
     # Set check_links=False for super speed, True for accuracy
