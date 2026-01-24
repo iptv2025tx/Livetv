@@ -36,7 +36,5 @@ urls:
 - http://tv2watch.icu:8080/get.php?username=DRIPTV0021&password=TDi6gVVnTs&type=m3u
 - http://pressrle.lat/get.php?username=Tx7UWc&password=6cwZxz&type=m3u 
 - http://xdgo.live:8080/get.php?username=HugoNavarroArredondo&password=t1t2t3t4&type=m3u 
-- http://filinta.eu/get.php?username=RXDSFQt8aK&password=cPLhPjAg4B&type=m3u 
-- http://premium2.ottpro2.org:8789/get.php?username=feuvrier&password=3657255&type=m3u 
-
+- http://filinta.eu/get.php?username=RXDSFQt8aK&password=cPLhPjAg4B&type=m3u  
   # Add more URLs here (up to 100)
