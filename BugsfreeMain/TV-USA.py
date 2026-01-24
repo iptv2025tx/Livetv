@@ -259,9 +259,6 @@ def main():
     source_urls = [        
         "http://nocable.cc:8080/get.php?username=canglobaltv3&password=globe1344&type=m3u_plus", 
         "http://nocable.cc:8080/get.php?username=sales@dellerstechshop.ca&password=sales@4889&type=m3u_plus", 
-        "http://matrivagoweb.xyz:2095/get.php?username=GROUP3411&password=123456&type=m3u", 
-        "http://directo.ddns.me:33200/get.php?username=stkjamna&password=7833&type=m3u", 
-        "http://imaxplay.net:2082/get.php?username=GerardoRamirez22&password=VMZRD&type=m3u", 
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
         "http://185.134.22.150:8080/get.php?username=sw-apuniversaliptv-6741&password=poland&type=m3u&output=ts", 
         "http://websafety101.net:5050/get.php?username=total&password=Wk9hXW9b57&type=m3u&output=ts",
