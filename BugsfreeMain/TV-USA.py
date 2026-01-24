@@ -260,11 +260,10 @@ def main():
         "http://nocable.cc:8080/get.php?username=canglobaltv3&password=globe1344&type=m3u_plus", 
         "http://nocable.cc:8080/get.php?username=sales@dellerstechshop.ca&password=sales@4889&type=m3u_plus", 
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
+        "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/moj.m3u8", 
+        "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8",
         "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "https://github.com/iptv2025tx/app-m3u-generator/raw/refs/heads/main/playlists/tubi_all.m3u",
         "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8",
-        "https://github.com/iptv2025tx/app-m3u-generator/raw/refs/heads/main/playlists/plutotv_us.m3u",
     ]
 
     # Set check_links=False for super speed, True for accuracy
