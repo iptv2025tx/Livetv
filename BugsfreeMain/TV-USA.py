@@ -266,8 +266,7 @@ def main():
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
         "http://185.134.22.150:8080/get.php?username=sw-apuniversaliptv-6741&password=poland&type=m3u&output=ts", 
         "http://websafety101.net:5050/get.php?username=total&password=Wk9hXW9b57&type=m3u&output=ts",
-        "http://magmas5.com:8000/get.php?username=XXXR3str3amLine&password=200conxxxxQ41&type=m3u&output=ts",
-        "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "https://github.com/iptv2025tx/gen-playlist/raw/refs/heads/main/playlist.m3u",
         "http://localiptv.site:85/get.php?username=xchangetomastree2020&password=ZeuYTgaB5NnzqE79&type=m3u&output=ts", 
     ]
 
