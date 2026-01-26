@@ -260,8 +260,7 @@ def main():
         "http://nocable.cc:8080/get.php?username=canglobaltv3&password=globe1344&type=m3u_plus", 
         "http://bedroombullyonline.com:8880/get.php?username=R9YN4ecdXe&password=2AXQHhrJbQ&type=m3u_plus", 
         "http://wickediptv.xyz/get.php?username=rick&password=rick&type=m3u&output=TS", 
-        "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
-        "http://185.134.22.150:8080/get.php?username=sw-apuniversaliptv-6741&password=poland&type=m3u&output=ts", 
+        "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8",  
         "http://websafety101.net:5050/get.php?username=total&password=Wk9hXW9b57&type=m3u&output=ts",
         "https://github.com/iptv2025tx/gen-playlist/raw/refs/heads/main/playlist.m3u", 
     ]
