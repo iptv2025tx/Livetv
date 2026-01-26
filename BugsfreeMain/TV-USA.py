@@ -258,6 +258,7 @@ def main():
     # Specific M3U sources (12 sources)
     source_urls = [        
         "http://nocable.cc:8080/get.php?username=canglobaltv3&password=globe1344&type=m3u_plus", 
+        "http://bedroombullyonline.com:8880/get.php?username=R9YN4ecdXe&password=2AXQHhrJbQ&type=m3u_plus", 
         "http://wickediptv.xyz/get.php?username=rick&password=rick&type=m3u&output=TS", 
         "http://x-api.cc/get.php?username=Loving&password=Youyou&type=m3u&output=ts", 
         "http://micaplay.net/get.php?username=juanalcivar&password=juan0903&type=m3u&output=ts", 
