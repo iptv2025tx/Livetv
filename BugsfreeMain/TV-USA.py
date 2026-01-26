@@ -258,6 +258,7 @@ def main():
     # Specific M3U sources (12 sources)
     source_urls = [        
         "http://nocable.cc:8080/get.php?username=canglobaltv3&password=globe1344&type=m3u_plus", 
+        "http://porritos.giize.com:8080/get.php?username=Limitless_discord&password=jKJvVnMHB6mhwrqBRwhCumNLJDUSAt&type=m3u_plus&output=m3u8", 
         "http://nocable.cc:8080/get.php?username=sales@dellerstechshop.ca&password=sales@4889&type=m3u_plus", 
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
         "http://185.134.22.150:8080/get.php?username=sw-apuniversaliptv-6741&password=poland&type=m3u&output=ts", 
