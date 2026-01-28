@@ -1100,6 +1100,11 @@ URL: http://dancehits80.denvs.ru:8080/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Duma TV
+URL: https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: KHL Prime
 URL: http://194.143.148.28:8080/KHL_HD/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1122,6 +1127,11 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Novyi Russkii (720p)
 URL: https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Perviy Krymskiy (720p)
+URL: https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1160,8 +1170,18 @@ URL: http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: SONGTV Russia
+URL: https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: STS Love
 URL: http://194.143.148.28:8080/CTC_LOVE/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TNT Music
+URL: https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1187,6 +1207,11 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Univer TV (1080p)
 URL: https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: VIVA Russia (1080p)
+URL: https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1660,31 +1685,6 @@ URL: https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: SONGTV Russia
-URL: https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: VIVA Russia (1080p)
-URL: https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Perviy Krymskiy (720p)
-URL: https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Duma TV
-URL: https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: TNT Music
-URL: https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
 
 Group: Undefined
 Name: Архыз 24 (1080p)
@@ -1900,47 +1900,47 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Шалун HD
-URL: http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Exxxotica HD
-URL: http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Blue Hustler
-URL: http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Erox
-URL: http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Brazzers TV Europe
-URL: http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Red Lips HD
-URL: http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Playboy TV
-URL: http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Babes TV
-URL: http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Русская ночь
-URL: http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -2887,7 +2887,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Viju+ Serial
-URL: http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -3102,7 +3102,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: .red
-URL: http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5219,7 +5219,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Диалоги о Рыбалке
-URL: http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5234,7 +5234,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Авто Плюс
-URL: http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk1NDM2NjgsImlhdCI6MTc2OTQ1NzI2OCwiY2lkIjo2LCJ1aWQiOjk5NTA5NTMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.FZ3HeK7UbbCgL7F3Wkgj-8CNGI1wsxIPrrzVQD0rsQ0&offset=10
+URL: http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2MjczOTQsImlhdCI6MTc2OTU0MDk5NCwiY2lkIjo2LCJ1aWQiOjk5NTU3OTM1MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.Zj5Dk8Ol5X0BIiJUZZoLsvrUESzacNNZLxLuKI3xJX8&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
