@@ -257,6 +257,7 @@ class M3UCollector:
 def main():
     # Specific M3U sources (12 sources)
     source_urls = [        
+        "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/sinclair-stream.m3u8", 
         "http://nocable.cc:8080/get.php?username=canglobaltv3&password=globe1344&type=m3u_plus", 
         "http://bedroombullyonline.com:8880/get.php?username=R9YN4ecdXe&password=2AXQHhrJbQ&type=m3u_plus", 
         "http://wickediptv.xyz/get.php?username=rick&password=rick&type=m3u&output=TS", 
