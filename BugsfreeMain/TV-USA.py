@@ -258,6 +258,7 @@ def main():
     # Specific M3U sources (12 sources)
     source_urls = [        
         "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/sinclair-stream.m3u8", 
+        "http://user.scalecdn.co:8080/get.php?username=69922173979534301&password=P0ZxXMOVz8qnPU4m&type=m3u",
         "http://magmas5.com:8000/get.php?username=XXXR3str3amLine&password=200conxxxxQ41&type=m3u&output=TS", 
         "http://wickediptv.xyz/get.php?username=rick&password=rick&type=m3u", 
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8",
